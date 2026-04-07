@@ -4,6 +4,7 @@ venv
 utils_notebook.ipynb
 test_mongodb.py
 main.py
+__pycache__
 
 # system hidden files
 **/.git
