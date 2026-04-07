@@ -1,0 +1,3 @@
+torch # pytorch
+ipykernel # for jupyter notebook
+matplotlib # for plotting
