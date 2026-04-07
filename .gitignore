@@ -1,0 +1,13 @@
+# system files
+venv
+.env
+utils_notebook.ipynb
+test_mongodb.py
+main.py
+
+# system hidden files
+**/.git
+**/.svn
+**/.hg
+**/.DS_Store
+**/Thumbs.db
